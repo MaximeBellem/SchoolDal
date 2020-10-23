@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDal", "SchoolDal\SchoolDal.csproj", "{A49B751B-8062-49C9-9CE4-F948767563BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDal", "TestDal\TestDal.csproj", "{77DEF0A2-C7EA-41A8-83BE-89F97477E2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49B751B-8062-49C9-9CE4-F948767563BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49B751B-8062-49C9-9CE4-F948767563BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49B751B-8062-49C9-9CE4-F948767563BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49B751B-8062-49C9-9CE4-F948767563BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DEF0A2-C7EA-41A8-83BE-89F97477E2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DEF0A2-C7EA-41A8-83BE-89F97477E2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DEF0A2-C7EA-41A8-83BE-89F97477E2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DEF0A2-C7EA-41A8-83BE-89F97477E2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

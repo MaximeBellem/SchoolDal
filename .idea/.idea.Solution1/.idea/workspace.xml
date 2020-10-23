@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="687e4aa7-1a01-4ce4-b0ce-55e6fbb078d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Address.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Course.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Group.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Room.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/SchoolContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Subject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDal/Teacher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution1.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SchoolDal/Class1.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Adresse.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Address.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Person.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Subject.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Teacher.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Group.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Room.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/SchoolContext.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Course.cs" />
+        <option value="$PROJECT_DIR$/SchoolDal/Student.cs" />
+        <option value="$PROJECT_DIR$/TestDal/UnitTest1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j8xeoGcadnpUQucTF4EHcdvbGp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="687e4aa7-1a01-4ce4-b0ce-55e6fbb078d9" name="Default Changelist" comment="" />
+      <created>1603199621256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603199621256</updated>
+      <workItem from="1603199628957" duration="8062000" />
+      <workItem from="1603300785820" duration="1383000" />
+      <workItem from="1603445540407" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-3072" y="418" key="Rider.ProjectTemplateDialog.Size" timestamp="1603218925156">
+      <screen x="-3840" y="0" width="2194" height="1194" />
+    </state>
+    <state x="-3072" y="418" key="Rider.ProjectTemplateDialog.Size/0.0.2194.1194/-3840.0.2194.1194@-3840.0.2194.1194" timestamp="1603218925156" />
+    <state x="773" y="480" key="RiderGenerateDialog" timestamp="1603301223543">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="-3067" y="480" key="RiderGenerateDialog/0.0.2194.1194/-3840.0.2194.1194@-3840.0.2194.1194" timestamp="1603222046282" />
+    <state x="773" y="480" key="RiderGenerateDialog/0.0.2194.1194/-3840.0.2194.1194@0.0.2194.1194" timestamp="1603301223543" />
+  </component>
+</project>
