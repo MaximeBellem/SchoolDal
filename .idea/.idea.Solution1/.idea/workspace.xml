@@ -6,17 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="687e4aa7-1a01-4ce4-b0ce-55e6fbb078d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Address.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Course.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Group.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Room.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/SchoolContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Student.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Subject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDal/Teacher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
       <updated>1603199621256</updated>
       <workItem from="1603199628957" duration="8062000" />
       <workItem from="1603300785820" duration="1383000" />
-      <workItem from="1603445540407" duration="306000" />
+      <workItem from="1603445540407" duration="964000" />
     </task>
     <servers />
   </component>
